@@ -11,3 +11,43 @@ where it awaits for you to add a commit.  The working directory is just the area
 that you are working in. It offers some value in that you can reset if you add
 something by accident to the stage area.
 ----------------------------------------------------------------------------------
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You just have to add the files that you want to commit in one logical change to the
+staging area first, and then afterwards make the commit.  To be more specific,
+if you change one file you can add it to the staging area alone, and then enter the
+commit.  If more than one file is included on the one logical change then you can
+just add both to the stage area and then enter the commit afterwards.
+----------------------------------------------------------------------------------
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+One situation when branches would be helpful in keeping history organized would be
+if you wanted to have your code support a different language.  You don't want to get
+rid of your current code, but you want to continue working off of it but not
+make it your main branch.  Afterall the original version isn't supposed to be in a
+different language.  Another situation would be if you wanted to test a feature.
+Branches can keep your history organized by seperating the strings of commits to
+your liking.  You can organize your changes and/or commits easier that way by
+creating relevant branches.
+-----------------------------------------------------------------------------------
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help you visualize the branch because it shows you the commits made on
+that branch and also can show you multiple branches at the same time.
+-----------------------------------------------------------------------------------
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+The results are that you get all commits (in the branches that are being merged) in
+one branch, and in date order.  We represent it that way in a diagram because it's
+easier to get a mental picture of what's going on, and what branches are merging.
+-----------------------------------------------------------------------------------
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Some Pros would be that it would save lots of tedious time.  Also allows you to
+focus on some potential areas that need more attention.  Some cons would be that
+the merging isn't 100% consistent, and there will be some things that will appear
+slightly different.
+------------------------------------------------------------------------------------
