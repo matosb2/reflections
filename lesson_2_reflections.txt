@@ -20,7 +20,8 @@ if you change one file you can add it to the staging area alone, and then enter 
 commit.  If more than one file is included on the one logical change then you can
 just add both to the stage area and then enter the commit afterwards.
 ----------------------------------------------------------------------------------
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
 
 One situation when branches would be helpful in keeping history organized would be
 if you wanted to have your code support a different language.  You don't want to get
