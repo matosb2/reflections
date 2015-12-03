@@ -11,3 +11,11 @@ automatically stay up-to-date with your remote repository?
 You would want to do it manually because you would be able to control what changes you
 want to pull.  Rather than just pulling every single new change every time.  It could be messier that way.
 -------------------------------------------------------------------------------------
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+Fork is basically a clone or copy of a repository only available through github and 
+not locally.  Clone is a copy of a repository and can be done through both platforms,
+locally or through github.  Branches are strings of commits or changes that have been 
+made and logged and can also make up repositories.
+-------------------------------------------------------------------------------------
