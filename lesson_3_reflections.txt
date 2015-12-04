@@ -19,3 +19,10 @@ not locally.  Clone is a copy of a repository and can be done through both platf
 locally or through github.  Branches are strings of commits or changes that have been 
 made and logged and can also make up repositories.
 -------------------------------------------------------------------------------------
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+It's very beneficial because not only can you see any changes made that you may have
+not necessarily knew about, but you can incorporate your own changes by merging the
+two.
+-------------------------------------------------------------------------------------
