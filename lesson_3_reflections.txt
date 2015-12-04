@@ -31,4 +31,17 @@ would be harder?
 
 You would have to collaborate through some type of forum, email, or chat.  It would 
 be a lot harder because there wouldn't be proper tools to help you work efficiently. 
-It would be easier because there would be less commands to remember (git commands).  
+It would be easier because there would be less commands to remember (git commands). 
+-------------------------------------------------------------------------------------
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+You would want to make changes in a seperate branch when you want to show others your
+suggested changes.  If you make changes in master it can mess up other users trying 
+to make their seperate changes.  So it's good if everyone works on their own branch
+so nobody is overwriting each others' suggestions.  
+
+One benefit in making changes on seperate branches would be that they are able to go
+through an extra step of revision before finally updating the master.  Also a benefit
+in making changes directly in master is that changes can be made a lot quicker because
+you avoid lots of extra steps.
