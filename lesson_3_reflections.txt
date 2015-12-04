@@ -26,3 +26,9 @@ It's very beneficial because not only can you see any changes made that you may 
 not necessarily knew about, but you can incorporate your own changes by merging the
 two.
 -------------------------------------------------------------------------------------
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+You would have to collaborate through some type of forum, email, or chat.  It would 
+be a lot harder because there wouldn't be proper tools to help you work efficiently. 
+It would be easier because there would be less commands to remember (git commands).  
